@@ -1,2 +1,2 @@
 # simmi-new-demo
-new my first git repo
+My new first git repository
